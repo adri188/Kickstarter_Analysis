@@ -1,15 +1,15 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+Louise used crowdfunding data to launch a campaign to raise 10000 for her play Fever. 
+Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals.
 
 ### Purpose
 
-Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. You’ll then submit a written report based on your analysis and the visualizations you create.
+Analyze trends  based on launch dates and funding goals to give Louise more insights about the data that can be used for future projects.
 
 
 ## Analysis and Challenges
-
-
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -18,9 +18,10 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 * Total Numbers of projects launched were higher between May-July, with signicant higher number of successful campaigns in May-Jun. 
 * At the beggining and end of the year there were lower number of projects launched with lower successful campaign ratio compared to total projects 
 * There is no significant correlation between failed initiatives and Launch date. 
-* Louise should probably benefit from launching her campaign around this months. 
+
 
 ### Analysis of Outcomes Based on Goals
+
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102937320/162600238-c1a91eef-afc7-4900-ac77-f25b7f3c266f.png)
 
@@ -28,14 +29,26 @@ From this graph you can make a few interpretations
 
 * ~ 70% of Campaigns with goals less than 1000 and 1000-4999 were succesful 
 
-* 50% of the Campaigns with goals Between 5000-25000 were succesful 
+* 50% of the Campaigns with goals Between 5000-25000 were succesful
 
-Using ttable to support this analysis better
-* 70% of projects had goals <5000
-* 76% of campaigns with goals < 1000 were succesful 
-* A little over 50% of projects had campaigns goals between 1000-4999 with 73% of them being succesful
+| Goal        | Total Projects |
+|-------------|----------------|
+| < 1000      | 186            |
+| 1000-4999   | 534            |
+| 5000-9999   | 169            |
+| 10000-14999 | 72             |
+| 15000-19999 | 24             |
+| 20000-24999 | 20             |
+| 25000-29999 | 5              |
+| 30000-34999 | 11             |
+| 35000-39999 | 6              |
+| 40000-44999 | 3              |
+| 45000-49999 | 1              |
+| > 50000     | 16             |
 
-* Lousie goal of 10000 has a 50% chance of being succesful based on the data
+Using data table to support this analysis better
+* Majority of projects (~70%) had goals <5000
+* Lousie campaign with a  goal of 10000 had a 50% chance of being succesful based on the data
 
 ### Challenges and Difficulties Encountered
 
