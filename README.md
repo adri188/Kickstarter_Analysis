@@ -24,10 +24,17 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102937320/162600238-c1a91eef-afc7-4900-ac77-f25b7f3c266f.png)
 
+From this graph you can make a few interpretations 
+
+* ~ 70% of Campaigns with goals less than 1000 and 1000-4999 were succesful 
+
+* 50% of the Campaigns with goals Between 5000-25000 were succesful 
+
+Using ttable to support this analysis better
 * 70% of projects had goals <5000
 * 76% of campaigns with goals < 1000 were succesful 
 * A little over 50% of projects had campaigns goals between 1000-4999 with 73% of them being succesful
-* We can see 100% of campaings between 45000-49999 were sucesful but there was only 1 project on this category 
+
 * Lousie goal of 10000 has a 50% chance of being succesful based on the data
 
 ### Challenges and Difficulties Encountered
