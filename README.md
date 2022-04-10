@@ -29,9 +29,7 @@ From this graph we could interpret the following:
 
 * Campaigns with goals less than 1000 and 1000-4999 were succesful ~75% of the time, followed by campaigns in the 35000-44999 ranges with 67% of success. 
 
-* CAmpaigns in the range of Louise's goal were succesful 50% of the time. 
-
-However need to look at the Table to better interpret results: 
+Taking a look at the data in Table below, we can better interpret the results. 
 
 | Goal        | Total Projects |
 |-------------|----------------|
@@ -49,7 +47,7 @@ However need to look at the Table to better interpret results:
 | > 50000     | 16             |
 
 * Majority of projects (~70%) had goals <5000
-* Lousie campaign with a  goal of 10000 had a 50% chance of being succesful based on the goal data.
+* Louise campaign with a  goal of 10.000 had a 50% chance of being succesful based on the goal data.
 
 ### Challenges and Difficulties Encountered
 
@@ -58,7 +56,7 @@ However need to look at the Table to better interpret results:
 >>Some of the challenges that could be experienced:
 - Double counting data on formulas 
 - Not setting correct statements, not locking cells 
-- While analyzing data and making statements there are more factors that should be taking into consideration than only looking at the trend. 
+
 
 ## Results
 
