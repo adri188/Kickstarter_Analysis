@@ -10,17 +10,32 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 ## Analysis and Challenges
 
 
+
 ### Analysis of Outcomes Based on Launch Date
 
 ![Theater_Outcomes_vs_launch](https://user-images.githubusercontent.com/102937320/162600229-1e854514-0660-44a1-baa5-5bf02ecf98d5.png)
 
+* Total Numbers of projects launched were higher between May-July, with signicant higher number of successful campaigns in May-Jun. 
+* At the beggining and end of the year there were lower number of projects launched with lower successful campaign ratio compared to total projects 
+* There is no significant correlation between failed initiatives and Launch date. 
+* Louise should probably benefit from launching her campaign around this months. 
 
 ### Analysis of Outcomes Based on Goals
 
-
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102937320/162600238-c1a91eef-afc7-4900-ac77-f25b7f3c266f.png)
 
+* 70% of projects had goals <5000
+* 76% of campaigns with goals < 1000 were succesful 
+* A little over 50% of projects had campaigns goals between 1000-4999 with 73% of them being succesful
+* We can see 100% of campaings between 45000-49999 were sucesful but there was only 1 project on this category 
+* Lousie goal of 10000 has a 50% chance of being succesful based on the data
+
 ### Challenges and Difficulties Encountered
+
+Some of the challenges that could be experienced
+- Doubole counting data on formulas 
+- not setting correct statements, not locking cells 
+- while analyzing data and making statements there are more factor that should be taking into consideration. 
 
 ## Results
 
@@ -33,6 +48,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 - What are some other possible tables and/or graphs that we could create?
 
 
+
 ### Initial Analysis
 
 
@@ -40,10 +56,15 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 
 ![ParentCategories](https://user-images.githubusercontent.com/102937320/162594175-5971f464-bb83-4ddb-9413-de5f3c69edcc.png)
 
+* Theater category for crowdfunding shows a higher number of successful campaigns 
+
 ![US_Categories](https://user-images.githubusercontent.com/102937320/162594174-6d96d00a-2aa3-47cf-b929-559744dec061.jpg)
 
 
+* Looking at the US specifically, we can also see Theater is the most common crowdfunding category with a 57% sucess rate vs total projects
+* Need to look at more specifics to set the campaign for Fever for sucess 
 
+* There is a significant correlation of succesful  campaigns vs launch date and it follows the trend when looking at theater. This play will potentially benefit if launched between May and June. 
 
 
 * For Louise Interest on GB Market
