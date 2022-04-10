@@ -25,11 +25,13 @@ Analyze trends  based on launch dates and funding goals to give Louise more insi
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102937320/162600238-c1a91eef-afc7-4900-ac77-f25b7f3c266f.png)
 
-From this graph you can make a few interpretations 
+From this graph we could interpret the following:
 
-* ~ 70% of Campaigns with goals less than 1000 and 1000-4999 were succesful 
+* Campaigns with goals less than 1000 and 1000-4999 were succesful ~75% of the time, followed by campaigns in the 35000-44999 ranges with 67% of success. 
 
-* 50% of the Campaigns with goals Between 5000-25000 were succesful
+* CAmpaigns in the range of Louise's goal were succesful 50% of the time. 
+
+However need to look at the Table to better interpret results: 
 
 | Goal        | Total Projects |
 |-------------|----------------|
@@ -46,37 +48,49 @@ From this graph you can make a few interpretations
 | 45000-49999 | 1              |
 | > 50000     | 16             |
 
-Using data table to support this analysis better
 * Majority of projects (~70%) had goals <5000
-* Lousie campaign with a  goal of 10000 had a 50% chance of being succesful based on the data
+* Lousie campaign with a  goal of 10000 had a 50% chance of being succesful based on the goal data.
 
 ### Challenges and Difficulties Encountered
 
-Some of the challenges that could be experienced
-- Doubole counting data on formulas 
-- not setting correct statements, not locking cells 
-- while analyzing data and making statements there are more factor that should be taking into consideration. 
+-Excel had difficulties handling the file, froze a couple of times. 
+
+>>Some of the challenges that could be experienced:
+- Double counting data on formulas 
+- Not setting correct statements, not locking cells 
+- While analyzing data and making statements there are more factors that should be taking into consideration than only looking at the trend. 
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-- What can you conclude about the Outcomes based on Goals?
+  1. There is a correlation on succesful campaigns and launch date indicating that around May-Jun there are higher chances of success. 
+  2. There is no correlation between failed campaigns and launch date
 
-- What are some limitations of this dataset?
+- What can you conclude about the Outcomes based on Goals?
+  
+  1. Majority of Campaigns had goals between 1000-4999 and campaigns with goals < 5000 were the most succesful with a 75% rate. 
+  2. Higher goals in general will reduce the success rate of the campaigns, except for a few exceptions that could be looked in detail.
+
+- What are some limitations of this dataset?  
+  1. There are come inconsistencies in data entry for goal- ( not standardized) -  as some are per person/donation and others are total. Which could impact   analysis 
+  2. Data is from 2009-2017 might not reflect current behavior 
 
 - What are some other possible tables and/or graphs that we could create?
+  1. US Specific Trends 
+  2. Lenght of campaign vs Pledged.
+    
 
 
 
-### Initial Analysis
+## Initial Analysis- From Module 1
 
 
 
 
 ![ParentCategories](https://user-images.githubusercontent.com/102937320/162594175-5971f464-bb83-4ddb-9413-de5f3c69edcc.png)
 
-* Theater category for crowdfunding shows a higher number of successful campaigns 
+* Theater category for crowdfunding is the most popular category and shows a higher number of successful campaigns. 
 
 ![US_Categories](https://user-images.githubusercontent.com/102937320/162594174-6d96d00a-2aa3-47cf-b929-559744dec061.jpg)
 
